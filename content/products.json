@@ -19,10 +19,6 @@
     {
       "type": "product-description",
       "enabled": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
     }
   ]
 }
