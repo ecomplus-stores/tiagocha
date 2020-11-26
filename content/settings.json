@@ -1,5 +1,5 @@
 {
-  "domain": "tiagocha.netlify.app",
+  "domain": "bd.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/laranja-v2.png",
-  "name": "tiagocha",
-  "short_name": "tiagocha",
+  "name": "BD",
+  "short_name": "BD",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/laranja-v2-bd.png",
   "store_id": 1191,
-  "description": "tiagocha",
+  "description": "Teste da plataforma e-com para uso na BD",
   "large_icon": "/img/uploads/laranja-v2-bd.png"
 }
