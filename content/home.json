@@ -30,8 +30,31 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "limit": 12,
+      "limit": 4,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 2
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-11-26T19:54:57.326Z",
+          "end": "2020-11-26T19:54:57.370Z",
+          "img": "/img/uploads/flexipan-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 4
     },
     {
       "type": "page-title",
