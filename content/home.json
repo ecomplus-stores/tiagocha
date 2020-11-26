@@ -7,17 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/co-pia-de-flexipan-1-.png",
+          "mobile_img": "",
+          "link": "",
+          "alt": "Veja todas as opções de tapetes para fazer macarons"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "",
+          "img": "/img/uploads/pasta-americana-1-.png",
+          "alt": "Confira a linha completa de pasta americana pronta"
         }
       ]
     },
