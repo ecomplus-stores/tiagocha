@@ -1,23 +1,23 @@
 {
-  "store_id": 1191,
-  "name": "tiagocha",
   "domain": "tiagocha.netlify.app",
-  "short_name": "tiagocha",
-  "description": "tiagocha",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/laranja-v2.png",
+  "name": "tiagocha",
+  "short_name": "tiagocha",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/laranja-v2-bd.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/laranja-v2-bd.png",
+  "store_id": 1191,
+  "description": "tiagocha",
+  "large_icon": "/img/uploads/laranja-v2-bd.png"
 }
