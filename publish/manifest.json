@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.cee3fd9a00adadfa0e0e6c7832420ec8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.ac1b545da55b2b9540d80e7268cd0546.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f6d5ed3c2e105cab3f2f0aa2219e008f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a4bde7c01fbcc2dd331206746f11496d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f1a20f916c1d2576f2a07a9f18f1db6f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "BD",
+  "short_name": "BD",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Teste da plataforma e-com para uso na BD",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
